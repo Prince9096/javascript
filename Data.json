@@ -1,0 +1,3276 @@
+  [
+    {
+      "id": 1,
+      "title": "Classic",
+      "price": 100,
+      "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+      "category": "earrings",
+      "deletedprice": 1000,
+      "thumbnail": "/j1.jpg", 
+      "tags": "bestsellers",
+      "categoryType": "top",
+      "imageColor": {
+        "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+        "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+      },
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      },
+      "colors": ["#d9a14c", "#ff0000"]
+    },
+  {
+    "id": 54,
+    "title": "biji",
+    "price": 1500,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 6500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#868686": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#868686", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 2,
+    "title": "Elegant Silver Necklace",
+    "price": 80,
+    "description": "Product Overview: This silver necklace brings an elegant touch to any outfit, featuring a delicate chain with a polished pendant.",
+    "category": "earrings",
+    "deletedprice": 800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ff0000": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#FFFF00": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#808080": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.2,
+      "count": 200
+    },
+    "colors": ["#ff0000", "#0000FF", "#FFFF00", "#808080"]
+  },
+  {
+    "id": 3,
+    "title": "Modern Gold Pendant",
+    "price": 120,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 4,
+    "title": "Luxury Diamond Ring",
+    "price": 150,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1500,
+    "tags": "bestsellers",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 5,
+    "title": "Stylish Leather Bracelet",
+    "price": 90,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 6,
+    "title": "Minimalist Pearl Earrings",
+    "price": 70,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "tags": "bestsellers",
+    "deletedprice": 700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 7,
+    "title": "Elegant Gold Chain",
+    "price": 130,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1300,
+    "tags": "bestsellers",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 9,
+    "title": "Elegant Ruby Necklace",
+    "price": 200,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 2000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 10,
+    "title": "Silver Cuff Bracelet",
+    "price": 50,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 11,
+    "title": "Diamond-Studded Bracelet",
+    "price": 180,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 12,
+    "title": "Gold-Plated Chain",
+    "price": 90,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 13,
+    "title": "Elegant Crystal Brooch",
+    "price": 60,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 600,
+    "tags": "bestsellers",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 14,
+    "title": "Vintage Pearl Necklace",
+    "price": 110,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1100,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 15,
+    "title": "Opal Pendant Necklace",
+    "price": 85,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 850,
+    "tags": "bestsellers",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 16,
+    "title": "Emerald Earrings Set",
+    "price": 175,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 1750,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 17,
+    "title": "Vintage Gold Anklet",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 18,
+    "title": "Elegant Silver Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "tags": "bestsellers",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 19,
+    "title": "Rose Gold Halo Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "tags": "bestsellers",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 20,
+    "title": "Diamond Engagement Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 21,
+    "title": "Sapphire Eternity Band Ring",
+    "price": 65,
+    "tags": "bestsellers",
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 22,
+    "title": "Platinum Solitaire Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 23,
+    "title": "Vintage Cocktail Ring",
+    "price": 350,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "tags": "bestsellers",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 24,
+    "title": "Opal Double Band Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 25,
+    "title": "Emerald Vintage Ring",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "tags": "bestsellers",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 26,
+    "title": "Gold Stackable Ring Set",
+    "price": 65,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 650,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 27,
+    "title": "Pearl Infinity Ring",
+    "price": 1500,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 6500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 28,
+    "title": "Diamond bangel",
+    "price": 500,
+    "description": "Product Overview: A dazzling bangel adorned with a sparkling diamond, adding a touch of elegance to any outfit.",
+    "category": "bangels",
+    "deletedprice": 1200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 220
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 29,
+    "title": "Pearl Studded bangel",
+    "price": 350,
+    "description": "Product Overview: A delicate bangel with a small pearl, perfect for everyday elegance.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#868686": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#000000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/j3.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.2,
+      "count": 180
+    },
+    "colors": ["#868686", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 30,
+    "title": "Emerald bangel",
+    "price": 1200,
+    "description": "Product Overview: Featuring a vibrant emerald gemstone, this bangel brings color and style to any look.",
+    "category": "bangels",
+    "deletedprice": 3000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 31,
+    "title": "Gold bangel with Ruby",
+    "price": 2000,
+    "description": "Product Overview: A premium gold bangel adorned with a shining ruby, adding luxury and elegance to your appearance.",
+    "category": "bangels",
+    "deletedprice": 5000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 190
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 32,
+    "title": "Minimalist Silver bangel",
+    "price": 300,
+    "description": "Product Overview: A sleek and simple silver bangel, perfect for everyday wear.",
+    "category": "bangels",
+    "deletedprice": 700,
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#696969": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/j3.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#000000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.3,
+      "count": 130
+    },
+    "colors": ["#696969", "#ff0000"]
+  },
+  {
+    "id": 33,
+    "title": "Traditional Gold bangel",
+    "price": 950,
+    "description": "Product Overview: A traditional gold bangel with intricate detailing, perfect for festive occasions.",
+    "category": "bangels",
+    "deletedprice": 2200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 210
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 34,
+    "title": "Turquoise Stone bangel",
+    "tags": "newarrivals",
+    "price": 850,
+    "description": "Product Overview: This bangel features a striking turquoise stone, ideal for adding a pop of color to your style.",
+    "category": "bangels",
+    "deletedprice": 1800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.1,
+      "count": 160
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 35,
+    "title": "Floral Diamond bangel",
+    "price": 1350,
+    "description": "Product Overview: A floral-shaped bangel studded with diamonds, perfect for special occasions.",
+    "tags": "newarrivals",
+    "category": "bangels",
+    "deletedprice": 3200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 140
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 36,
+    "title": "Vintage Gold bangel",
+    "price": 700,
+    "description": "Product Overview: A vintage-inspired gold bangel that adds a touch of old-world charm.",
+    "category": "bangels",
+    "deletedprice": 1700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.4,
+      "count": 125
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 37,
+    "title": "Opal bangel",
+    "price": 1100,
+    "description": "Product Overview: This stunning bangel features a beautiful opal stone, perfect for making a statement.",
+    "category": "bangels",
+    "deletedprice": 2600,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 170
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 38,
+    "title": "Rose Gold bangel",
+    "price": 1300,
+    "description": "Product Overview: A modern rose gold bangel that brings a fresh and contemporary look.",
+    "category": "bangels",
+    "deletedprice": 3000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 115
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 39,
+    "title": "Heart Shaped Diamond bangel",
+    "price": 1600,
+    "description": "Product Overview: A heart-shaped diamond bangel designed to bring a romantic touch to your style.",
+    "category": "bangels",
+    "deletedprice": 3500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 180
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 40,
+    "title": "Gemstone Cluster bangel",
+    "price": 950,
+    "description": "Product Overview: A cluster of sparkling gemstones that come together to create a unique and eye-catching bangel.",
+    "category": "bangels",
+    "deletedprice": 2500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.4,
+      "count": 145
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 41,
+    "title": "Classic Gold bangel",
+    "price": 800,
+    "description": "Product Overview: A classic gold bangel with a simple yet elegant design that never goes out of style.",
+    "category": "bangels",
+    "deletedprice": 2000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.2,
+      "count": 110
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 42,
+    "title": "White Gold Diamond bangel",
+    "price": 1800,
+    "description": "Product Overview: A luxurious white gold bangel set with a sparkling diamond, ideal for upscale events.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 4000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 175
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 43,
+    "title": "Twisted Gold bangel",
+    "price": 600,
+    "description": "Product Overview: A twisted design in gold, this bangel offers a unique and fashionable look.",
+    "tags": "newarrivals",
+    "category": "bangels",
+    "deletedprice": 1500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.0,
+      "count": 125
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 44,
+    "title": "Blue Sapphire bangel",
+    "price": 1700,
+    "description": "Product Overview: Featuring a stunning blue sapphire, this bangel is a must-have for gemstone lovers.",
+    "category": "bangels",
+    "deletedprice": 3500,
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d6d6d6": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 155
+    },
+    "colors": ["#d6d6d6", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 45,
+    "title": "Infinity Knot bangel",
+    "price": 650,
+    "description": "Product Overview: A delicate infinity knot design in gold, this bangel is symbolic and stylish.",
+    "category": "bangels",
+    "deletedprice": 1600,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.1,
+      "count": 135
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 46,
+    "title": "Gold and Pearl bangel",
+    "price": 1150,
+    "description": "Product Overview: A combination of gold and a single pearl, this bangel is a blend of traditional and modern design.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 2800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 47,
+    "title": "Gold Swirl bangel",
+    "price": 1050,
+    "description": "Product Overview: A swirl design crafted in gold, adding a modern twist to this beautiful bangel.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 2500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.4,
+      "count": 145
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 48,
+    "title": "Amethyst bangel",
+    "price": 900,
+    "description": "Product Overview: This bangel features a beautiful amethyst stone, bringing a rich purple hue to your look.",
+    "category": "bangels",
+    "deletedprice": 2200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 155
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 49,
+    "title": "Spiral Gold bangel",
+    "price": 750,
+    "description": "Product Overview: A spiral-shaped gold bangel that offers a unique and stylish look for any occasion.",
+    "category": "bangels",
+    "deletedprice": 1700,
+    "thumbnail": "/j1.jpg",
+    "tags": "newarrivals",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.2,
+      "count": 145
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 50,
+    "title": "Star Diamond bangel",
+    "price": 1700,
+    "description": "Product Overview: A star-shaped design with a diamond center, this bangel brings celestial beauty to your outfit.",
+    "category": "bangels",
+    "deletedprice": 4000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 51,
+    "title": "Gold Crescent bangel last",
+    "price": 1200,
+    "description": "Product Overview: A crescent-shaped bangel in gold, perfect for those who love celestial designs.",
+    "category": "bangels",
+    "deletedprice": 3200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 52,
+    "title": "Infinity Diamond ",
+    "price": 1450,
+    "description": "Product Overview: An infinity symbol designed in gold with a diamond centerpiece, representing eternal elegance.",
+    "category": "bangels",
+    "deletedprice": 3600,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 140
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 53,
+    "title": "last vali",
+    "price": 16000,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "ring",
+    "deletedprice": 17000,
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c"]
+  },
+  {
+    "id": 55,
+    "title": "Earrings Elegant",
+    "price": 16100,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17100,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 56,
+    "title": "Earrings Chic",
+    "price": 16200,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "tags": "newarrivals",
+    "category": "earrings",
+    "deletedprice": 17200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 57,
+    "title": "Earrings Glam",
+    "price": 16300,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17300,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 58,
+    "title": "Earrings Classy",
+    "price": 16400,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17400,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 59,
+    "title": "Earrings Sparkle",
+    "tags": "newarrivals",
+    "price": 16500,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 60,
+    "title": "Earrings Shimmer",
+    "price": 16600,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17600,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 61,
+    "title": "Earrings Luxury",
+    "price": 16700,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "tags": "newarrivals",
+    "deletedprice": 17700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 62,
+    "title": "Earrings Dazzle",
+    "price": 16800,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 17800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 63,
+    "title": "Earrings Regal",
+    "price": 16900,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "tags": "newarrivals",
+    "deletedprice": 17900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 64,
+    "title": "Earrings Radiance",
+    "price": 17000,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "earrings",
+    "deletedprice": 18000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 65,
+    "title": "Bangles Elegant",
+    "price": 17100,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18100,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 66,
+    "title": "Bangles Chic",
+    "price": 17200,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 67,
+    "title": "Bangles Glam",
+    "price": 17300,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18300,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 68,
+    "title": "Bangles Classy",
+    "tags": "newarrivals",
+    "price": 17400,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18400,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#0000FF": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF"]
+  },
+  {
+    "id": 69,
+    "title": "Bangles Sparkle",
+    "price": 17500,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 70,
+    "title": "Bangles Shimmer",
+    "price": 17600,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18600,
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 71,
+    "title": "Bangles Luxury",
+    "price": 17700,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 72,
+    "title": "Bangles Dazzle",
+    "price": 17800,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 73,
+    "title": "Bangles Regal",
+    "price": 17900,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 18900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 74,
+    "title": "Bangles Radiance",
+    "price": 18000,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 19000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 75,
+    "title": "Bangles Divine",
+    "price": 18100,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19100,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 76,
+    "title": "Bangles Serenity",
+    "price": 18200,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 77,
+    "title": "Bangles Allure",
+    "price": 18300,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "tags": "newarrivals",
+    "category": "bangels",
+    "deletedprice": 19300,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/b1.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/j1.jpg", "/j1.jpg", "/b1.jpg", "/j3.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 78,
+    "title": "Bangles Charm",
+    "price": 18400,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19400,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 79,
+    "title": "Bangles Bliss",
+    "price": 18500,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 80,
+    "title": "Bangles Majestic",
+    "price": 18600,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19600,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 81,
+    "title": "Bangles Opulent",
+    "price": 18700,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 82,
+    "title": "Bangles Eternal last",
+    "price": 18800,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "tags": "newarrivals",
+    "deletedprice": 19800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 83,
+    "title": "Bangles Bold",
+    "price": 18900,
+    "description": "Product Overview: The Classic Crystal Tennis Bracelet is a timeless piece that showcases elegance and sophistication. Featuring a row of sparkling crystals meticulously set in a sleek design.",
+    "category": "bangels",
+    "deletedprice": 19900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#d9a14c": ["/j1.jpg", "/j2.jpg", "/j3.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"]
+    },
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "colors": ["#d9a14c", "#ff0000"]
+  },
+  {
+    "id": 84,
+    "title": "Elegant Pearl Necklace",
+    "price": 25900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "tags": "newarrivals",
+    "category": "necklace",
+    "deletedprice": 26900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 85,
+    "title": "Radiant Sapphire Pendant",
+    "price": 31000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#868686": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"],
+      "#ff0000": ["/b1.jpg", "/j1.jpg", "/b1.jpg", "/b1.jpg"],
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff", "#ff0000", "#868686"]
+  },
+  {
+    "id": 86,
+    "title": "Golden Sunburst Earrings",
+    "price": 18900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "tags": "newarrivals",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 87,
+    "title": "Diamond Infinity Bracelet",
+    "price": 46000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 88,
+    "title": "Silver Leaf Brooch",
+    "tags": "newarrivals",
+    "price": 17500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 89,
+    "title": "Crystal Snowflake Pendant",
+    "price": 22300,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 90,
+    "title": "Emerald Teardrop Earrings",
+    "price": 34000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 91,
+    "title": "Ruby Heart Necklace",
+    "price": 29900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 92,
+    "title": "Sapphire Cluster Ring",
+    "price": 36500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 93,
+    "title": "Golden Feather Brooch",
+    "price": 14200,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 94,
+    "title": "Platinum Wave Bracelet",
+    "price": 51000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 95,
+    "title": "Aquamarine Drop Earrings",
+    "price": 26700,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 96,
+    "title": "Opal Flower Ring",
+    "price": 13800,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "tags": "newarrivals",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 97,
+    "title": "Rose Gold Cuff Bracelet",
+    "price": 49000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 98,
+    "title": "Amethyst Stud Earrings",
+    "price": 14900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 99,
+    "tags": "newarrivals",
+    "title": "Citrine Sun Pendant",
+    "price": 21000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 100,
+    "tags": "newarrivals",
+    "title": "Tourmaline Rainbow Earrings",
+    "price": 25500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 101,
+    "tags": "newarrivals",
+    "title": "Peridot Teardrop Necklace",
+    "price": 26300,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 102,
+    "title": "Onyx Crescent Ring",
+    "price": 21900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 103,
+    "title": "Coral Starfish Pendant",
+    "price": 19800,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 104,
+    "title": "Topaz Drop Necklace last ",
+    "price": 30100,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 105,
+    "title": "Sapphire Pendant Necklace",
+    "price": 32050,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 106,
+    "title": "Emerald Drop Necklace",
+    "price": 29500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 107,
+    "title": "Ruby Cluster Necklace",
+    "price": 31000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 108,
+    "title": "Diamond Solitaire Necklace",
+    "price": 33000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 109,
+    "title": "Amethyst Drop Necklace",
+    "price": 29050,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 110,
+    "title": "Rose Gold Heart Necklace",
+    "price": 31500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 111,
+    "title": "Silver Moon Necklace",
+    "price": 28500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 112,
+    "title": "Opal Teardrop Necklace",
+    "price": 27550,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 113,
+    "title": "Turquoise Choker Necklace",
+    "price": 28000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 114,
+    "title": "Pearl Drop Necklace",
+    "price": 29800,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 115,
+    "title": "Citrine Gemstone Necklace",
+    "price": 31050,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 116,
+    "title": "Garnet Infinity Necklace",
+    "price": 32500,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 117,
+    "title": "Aquamarine Necklace",
+    "price": 30000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 118,
+    "title": "Peridot Flower Necklace",
+    "price": 29550,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 119,
+    "title": "Onyx Stone Necklace",
+    "price": 28050,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 120,
+    "title": "Topaz Pendant Necklace",
+    "price": 30500,
+    "description": "A gorgeous topaz pendant necklace set in silver, perfect for a touch of elegance.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 120
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 121,
+    "title": "Tanzanite Gemstone Necklace",
+    "price": 32000,
+    "description": "A brilliant tanzanite necklace, known for its deep blue hue, ideal for special occasions.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 100
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 122,
+    "title": "Moonstone Charm Necklace",
+    "price": 28500,
+    "description": "A charming moonstone necklace with a magical glow, perfect for any occasion.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 123,
+    "title": "Platinum Infinity Necklace",
+    "price": 34000,
+    "description": "An elegant platinum infinity necklace symbolizing eternal love, with intricate design.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 80
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 124,
+    "title": "Swarovski Crystal Necklace",
+    "price": 25500,
+    "description": "A dazzling Swarovski crystal necklace that catches the light beautifully.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 125,
+    "title": "Black Diamond Necklace",
+    "price": 37500,
+    "description": "A unique black diamond necklace, perfect for a modern and edgy look.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 90
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 126,
+    "title": "Pearl & Sapphire Necklace",
+    "price": 29500,
+    "description": "A beautiful combination of pearls and sapphires, creating a timeless necklace.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 170
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 127,
+    "title": "Rose Quartz Necklace",
+    "price": 26000,
+    "description": "A gentle rose quartz necklace known for its romantic and soothing energy.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 128,
+    "title": "Lapis Lazuli Necklace",
+    "price": 31000,
+    "description": "A regal lapis lazuli necklace with a deep blue hue, perfect for formal occasions.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 110
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 129,
+    "title": "Carnelian Stone Necklace",
+    "price": 28000,
+    "description": "A vibrant carnelian stone necklace that adds a pop of color to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 130,
+    "title": "Citrine Pendant Necklace",
+    "price": 29900,
+    "description": "A beautiful citrine pendant that radiates warmth and positivity.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 135
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 131,
+    "title": "Turquoise Gemstone Necklace",
+    "price": 30500,
+    "description": "A bright turquoise necklace symbolizing protection and tranquility.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 132,
+    "title": "Opal & Diamond Necklace",
+    "price": 34000,
+    "description": "A luxurious opal necklace with diamond accents, perfect for adding sparkle.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 105
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 133,
+    "title": "Amethyst Teardrop Necklace",
+    "price": 29000,
+    "description": "An elegant amethyst teardrop necklace set in sterling silver for a sophisticated look.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 125
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 134,
+    "title": "Emerald Cut Necklace",
+    "price": 35500,
+    "description": "A stunning emerald cut necklace that brings a touch of luxury to any ensemble.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.8,
+      "count": 95
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 135,
+    "title": "White Gold Chain Necklace",
+    "price": 26000,
+    "description": "A classic white gold chain necklace, versatile for everyday or formal wear.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 180
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 136,
+    "title": "Ruby Pendant Necklace",
+    "price": 37500,
+    "description": "A dazzling ruby pendant necklace, sure to make a statement.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "luxury",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 85
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 137,
+    "title": "Aquamarine Gemstone Necklace",
+    "price": 32000,
+    "description": "A calming aquamarine gemstone necklace with a soothing blue shade.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 138,
+    "title": "Garnet Choker Necklace",
+    "price": 27000,
+    "description": "A bold garnet choker necklace, perfect for adding a pop of color to your outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 139,
+    "title": "Gold Bar Necklace",
+    "price": 29000,
+    "description": "A minimalist gold bar necklace, perfect for everyday wear.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 145
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 140,
+    "title": "Gold Bar Necklace",
+    "price": 29000,
+    "description": "A minimalist gold bar necklace, perfect for everyday wear.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j5.jpg", "/j6.jpg", "/j4.jpg", "/j5.jpg"]
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 145
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 141,
+    "title": "Sapphire Stud Earrings",
+    "price": 22000,
+    "deletedprice": 25000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 142,
+    "title": "Diamond Drop Earrings",
+    "price": 56000,
+    "deletedprice": 60000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 143,
+    "title": "Ruby Heart Pendant",
+    "price": 48000,
+    "deletedprice": 52000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 144,
+    "title": "Opal Teardrop Earrings",
+    "price": 30000,
+    "deletedprice": 34000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 145,
+    "title": "Aquamarine Dangle Earrings",
+    "price": 37000,
+    "deletedprice": 41000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 146,
+    "title": "Topaz Hoop Earrings",
+    "price": 20000,
+    "deletedprice": 23000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 147,
+    "title": "Amethyst Stud Earrings",
+    "price": 15000,
+    "deletedprice": 18000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 148,
+    "title": "Garnet Cluster Earrings",
+    "price": 27000,
+    "deletedprice": 30000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#ffffff"]
+  },
+  {
+    "id": 149,
+    "title": "Citrine Drop Earrings",
+    "price": 32000,
+    "deletedprice": 35000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 150,
+    "title": "Moonstone Pendant Earrings",
+    "price": 19000,
+    "deletedprice": 22000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 151,
+    "title": "Peridot Oval Earrings",
+    "price": 45000,
+    "deletedprice": 48000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 152,
+    "title": "Elegant Pearl Necklace",
+    "price": 25900,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 26900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 153,
+    "title": "Radiant Sapphire Pendant",
+    "price": 31000,
+    "description": "A stunning sapphire pendant necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 32000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 154,
+    "title": "Golden Sunburst Earrings",
+    "price": 18900,
+    "description": "A stunning pair of golden sunburst earrings that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 19900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 155,
+    "title": "Diamond Infinity Bracelet",
+    "price": 46000,
+    "description": "A stunning diamond infinity bracelet that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 47000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 156,
+    "title": "Silver Leaf Brooch",
+    "price": 17500,
+    "description": "A stunning silver leaf brooch that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 18500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 157,
+    "title": "Crystal Snowflake Pendant",
+    "price": 22300,
+    "description": "A stunning crystal snowflake pendant that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 23300,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 158,
+    "title": "Emerald Teardrop Earrings",
+    "price": 34000,
+    "description": "A stunning pair of emerald teardrop earrings that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 35000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 159,
+    "title": "Ruby Heart Necklace",
+    "price": 29900,
+    "description": "A stunning ruby heart necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 30900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 160,
+    "title": "Sapphire Cluster Ring",
+    "price": 36500,
+    "description": "A stunning sapphire cluster ring that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 37500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 161,
+    "title": "Golden Feather Brooch",
+    "price": 14200,
+    "description": "A stunning golden feather brooch that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 15200,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 162,
+    "title": "Platinum Wave Bracelet",
+    "price": 51000,
+    "description": "A stunning platinum wave bracelet that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 52000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 163,
+    "title": "Aquamarine Drop Earrings",
+    "price": 26700,
+    "description": "A stunning pair of aquamarine drop earrings that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 27700,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 164,
+    "title": "Opal Flower Ring",
+    "price": 13800,
+    "description": "A stunning opal flower ring that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 14800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 165,
+    "title": "Rose Gold Cuff Bracelet",
+    "price": 49000,
+    "description": "A stunning rose gold cuff bracelet that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 50000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 166,
+    "title": "Amethyst Stud Earrings",
+    "price": 14900,
+    "description": "A stunning pair of amethyst stud earrings that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 15900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 167,
+    "title": "Citrine Sun Pendant",
+    "price": 21000,
+    "description": "A stunning citrine sun pendant that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 22000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 168,
+    "title": "Garnet Halo Ring",
+    "price": 37000,
+    "description": "A stunning garnet halo ring that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 38000,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 169,
+    "title": "Tourmaline Rainbow Earrings",
+    "price": 25500,
+    "description": "A stunning pair of tourmaline rainbow earrings that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 26500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 170,
+    "title": "Peridot Teardrop Necklace",
+    "price": 26300,
+    "description": "A stunning peridot teardrop necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 27300,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 171,
+    "title": "Onyx Crescent Ring",
+    "price": 21900,
+    "description": "A stunning onyx crescent ring that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 22900,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 172,
+    "title": "Coral Starfish Pendant",
+    "price": 19800,
+    "description": "A stunning coral starfish pendant that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 20800,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 173,
+    "title": "Topaz Drop Necklace",
+    "price": 30100,
+    "description": "A stunning topaz drop necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 31100,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 174,
+    "title": "Sapphire Pendant Necklace",
+    "price": 32050,
+    "description": "A stunning sapphire pendant necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 33050,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 175,
+    "title": "Emerald Drop Necklace",
+    "price": 29500,
+    "description": "A stunning emerald drop necklace that adds a touch of elegance to any outfit.",
+    "category": "necklace",
+    "deletedprice": 30500,
+    "thumbnail": "/j1.jpg",
+    "categoryType": "normal",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "id": 176,
+    "title": "Peridot Oval Earrings",
+    "price": 45000,
+    "deletedprice": 48000,
+    "description": "A stunning pearl necklace featuring a string of lustrous pearls that add a touch of elegance to any outfit.",
+    "category": "necklace",
+    "thumbnail": "/j1.jpg",
+    "categoryType": "top",
+    "imageColor": {
+      "#ffffff": ["/j2.jpg", "/j3.jpg", "/j1.jpg", "/j2.jpg"]
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "colors": ["#d9a14c", "#ff0000", "#0000FF", "#FFFF00"]
+  },
+  {
+    "poster_category": "ring",
+    "image": {
+      "pc": "/desktop_women_rings.jpg",
+      "mobile": "/mobile_women_rings.jpg"
+    }
+  },
+  {
+    "poster_category": "bangels",
+    "image": {
+      "pc": "/desktop_women_rings.jpg",
+      "mobile": "/mobile_women_rings.jpg"
+    }
+  },
+  {
+    "poster_category": "necklace",
+    "image": {
+      "pc": "/pc_necklace2.jpg",
+      "mobile": "/poster_mobile_necklace.jpg"
+    }
+  },
+  {
+    "poster_category": "earrings",
+    "image": {
+      "pc": "/pc_necklace2.jpg",
+      "mobile": "/poster_mobile_necklace.jpg"
+    }
+  }
+]
